@@ -41,8 +41,8 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
-![Zabbix installed](https://github.com/WilderWein123/zbx-hw-02.md/blob/main/img/zbx1.jpg)
-![Zabbix installed](https://github.com/WilderWein123/zbx-hw-02.md/blob/main/img/zbx4.jpg)
+![Zabbix installed](https://github.com/WilderWein123/zbx-hw-03.md/blob/main/img/zbx1.jpg)
+![Zabbix installed](https://github.com/WilderWein123/zbx-hw-03.md/blob/main/img/zbx4.jpg)
 
  ---
 
@@ -75,8 +75,8 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-![Zabbix installed](https://github.com/WilderWein123/zbx-hw-02.md/blob/main/img/zbx2.jpg)
-![Zabbix installed](https://github.com/WilderWein123/zbx-hw-02.md/blob/main/img/zbx3.jpg)
+![Zabbix installed](https://github.com/WilderWein123/zbx-hw-03.md/blob/main/img/zbx2.jpg)
+![Zabbix installed](https://github.com/WilderWein123/zbx-hw-03.md/blob/main/img/zbx3.jpg)
 
  ---
 
@@ -91,7 +91,7 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
-![Zabbix installed](https://github.com/WilderWein123/zbx-hw-02.md/blob/main/img/zbx5.jpg)
+![Zabbix installed](https://github.com/WilderWein123/zbx-hw-03.md/blob/main/img/zbx5.jpg)
 
  ---
 
